@@ -16,7 +16,7 @@ PDF Storm 是一個強大的 Userscript，用於批量下載當前頁面上的�
 
 3. 點擊「[PDF-Storm.user.js](https://github.com/HeiTang/PDF-Storm/raw/main/PDF-Storm.user.js)」並選擇安裝。
 
-4. 若上述無法正常安裝，也可在 Tampermonkey 中創建一個新腳本，並將 PDF Storm 的程式碼貼上或是
+4. 若上述無法正常安裝，也可在 Tampermonkey 中創建一個新腳本，並將 PDF Storm 的程式碼貼上。
 
 ## 使用方法
 1. 打開任何包含 PDF 連結的網頁。
